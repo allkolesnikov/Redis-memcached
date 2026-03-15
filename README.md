@@ -1,4 +1,5 @@
 # Redis-memcached
+**Кolesnikov Aleksandr**  
 
 ## Задание 1. Кеширование
 
