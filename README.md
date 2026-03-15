@@ -33,4 +33,4 @@
 ## Задание 4. Запись данных в Redis
 
 ### Скриншот работы Redis
-![Redis](Redis/TTL.png)
+![Redis](Images/Redis.png)
